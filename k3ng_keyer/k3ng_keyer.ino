@@ -1,5 +1,5 @@
 /*
-
+modified for TK5EP 25/04/2020
  K3NG Arduino CW Keyer
 
  Copyright 2010 - 2020 Anthony Good, K3NG
